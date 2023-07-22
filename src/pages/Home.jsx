@@ -2,6 +2,7 @@ import React from "react"
 import Contact from "../components/Contact"
 import Typed from "react-typed"
 
+
 const Home = () => {
 	return (
 		<div id="home" className="text-white grid place-content-center min-h-screen">

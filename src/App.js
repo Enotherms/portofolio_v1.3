@@ -5,7 +5,6 @@ import Skill from "./pages/Skill";
 
 
 function App() {
-  
   return (
     <div className="bg-[#282b30]">
       <ParticlesBackground />
