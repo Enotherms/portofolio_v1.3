@@ -7,7 +7,7 @@ import Skill from "./pages/Skill";
 function App() {
   
   return (
-    <div className="">
+    <div className="bg-[#282b30]">
       <Particle />
       <Home />
       <About />

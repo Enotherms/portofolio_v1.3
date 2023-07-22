@@ -111,13 +111,6 @@ function Particle() {
 						type: "inline",
 						url: "https://particles.js.org/images/hollowknight.svg",
 					},
-					background: {
-						color: "#transparent",
-						image: "",
-						position: "50% 50%",
-						repeat: "no-repeat",
-						size: "cover",
-					},
 					retina_detect: true,
 				}}
 			/>
