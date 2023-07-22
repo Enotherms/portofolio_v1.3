@@ -1,6 +1,6 @@
 import Home from "./pages/Home";
 import About from "./pages/aboutMe";
-import Particle from "./components/Particle";
+import ParticlesBackground from "./components/ParticlesBackground";
 import Skill from "./pages/Skill";
 
 
@@ -8,7 +8,7 @@ function App() {
   
   return (
     <div className="bg-[#282b30]">
-      <Particle />
+      <ParticlesBackground />
       <Home />
       <About />
       <Skill />
