@@ -30,7 +30,7 @@ function ParticlesBackground() {
                     },
                     links: {
                         color: "#7289da",
-                        distance: 150,
+                        distance: 100,
                         enable: true,
                         opacity: 1,
                         width: 1,
@@ -50,7 +50,7 @@ function ParticlesBackground() {
                             enable: true,
                             area: 800,
                         },
-                        value: 80,
+                        value: 70,
                     },
                     opacity: {
                         value: 0.5,

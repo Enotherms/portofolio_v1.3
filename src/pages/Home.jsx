@@ -6,7 +6,7 @@ const Home = () => {
 	return (
 		<div id="home" className="text-white grid place-content-center min-h-screen">
 			<div className="font-inter z-10 text-center">
-				<h1 className="text-3xl md:text-4xl">
+				<h1 className="text-3xl md:text-4xl font-semibold">
 					<Typed strings={["ABIYYU DHIYAUL HAQ"]} startDelay={1100} typeSpeed={75} />
 				</h1>
 				<p className="text-xl md:text-2xl py-3">
